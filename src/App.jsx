@@ -16,23 +16,23 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "Artificial Intelligence & Machine Learning",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "University Institute of Engineering & Technology (UIET), Panjab University"]
+          colleges: ["Chandigarh University Lucknow", "University Institute of Engineering & Technology (UIET), Panjab University"]
         },
         { 
           name: "Data Science & Analytics",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Dr. S.S. Bhatnagar University Institute of Chemical Engineering & Technology"]
+          colleges: ["Chandigarh University Lucknow", "Dr. S.S. Bhatnagar University Institute of Chemical Engineering & Technology"]
         },
         { 
           name: "Cyber Security",
-          colleges: ["University Institute of Engineering & Technology (UIET), Panjab University", "Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["University Institute of Engineering & Technology (UIET), Panjab University", "Chandigarh University Lucknow"]
         },
         { 
           name: "Cloud Computing",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "University Institute of Engineering & Technology (UIET), Panjab University"]
+          colleges: ["Chandigarh University Lucknow", "University Institute of Engineering & Technology (UIET), Panjab University"]
         },
         { 
           name: "Full Stack Development",
-          colleges: ["University Institute of Engineering & Technology (UIET), Panjab University", "Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["University Institute of Engineering & Technology (UIET), Panjab University", "Chandigarh University Lucknow"]
         }
       ]
     },
@@ -44,23 +44,23 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "Marketing Management",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
         },
         { 
           name: "Finance Management",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
         },
         { 
           name: "Human Resource Management",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
         },
         { 
           name: "International Business",
-          colleges: ["Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["Chandigarh University Lucknow"]
         },
         { 
           name: "Business Analytics",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Dr. S.S. Bhatnagar University Institute of Chemical Engineering & Technology"]
+          colleges: ["Chandigarh University Lucknow", "Dr. S.S. Bhatnagar University Institute of Chemical Engineering & Technology"]
         }
       ]
     },
@@ -72,23 +72,23 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "Agronomy",
-          colleges: ["Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["Chandigarh University Lucknow"]
         },
         { 
           name: "Horticulture",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Government Home Science College, Chandigarh (Sector 10)"]
+          colleges: ["Chandigarh University Lucknow", "Government Home Science College, Chandigarh (Sector 10)"]
         },
         { 
           name: "Soil Science",
-          colleges: ["Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["Chandigarh University Lucknow"]
         },
         { 
           name: "Plant Pathology",
-          colleges: ["Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["Chandigarh University Lucknow"]
         },
         { 
           name: "Agricultural Economics",
-          colleges: ["Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["Chandigarh University Lucknow"]
         }
       ]
     },
@@ -100,23 +100,23 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "General Management",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
         },
         { 
           name: "Digital Marketing",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
         },
         { 
           name: "Entrepreneurship",
-          colleges: ["Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["Chandigarh University Lucknow"]
         },
         { 
           name: "Banking & Finance",
-          colleges: ["Panjab University, Chandigarh (Sector 14)", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
         },
         { 
           name: "International Business",
-          colleges: ["Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["Chandigarh University Lucknow"]
         }
       ]
     },
@@ -172,7 +172,7 @@ const ChandigarhUniversityVideo = () => {
         },
         { 
           name: "UI/UX Design",
-          colleges: ["Government College of Art, Chandigarh (Sector 10)", "Panjab University, Chandigarh (Sector 14)"]
+          colleges: ["Government College of Art, Chandigarh (Sector 10)", "Chandigarh University Lucknow"]
         }
       ]
     }
@@ -180,7 +180,7 @@ const ChandigarhUniversityVideo = () => {
 
   const colleges = [
     { name: "Government College of Art, Chandigarh (Sector 10)", rating: 4.5 },
-    { name: "Panjab University, Chandigarh (Sector 14)", rating: 4.8 },
+    { name: "Chandigarh University Lucknow", rating: 4.8 },
     { name: "Post Graduate Institute of Medical Education & Research (PGIMER)", rating: 4.9 },
     { name: "Government Medical College & Hospital, Chandigarh (Sector 32)", rating: 4.7 },
     { name: "Government College for Girls, Chandigarh (Sector 11)", rating: 4.6 },
