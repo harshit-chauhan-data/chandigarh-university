@@ -20,7 +20,7 @@ const ChandigarhUniversityVideo = () => {
         },
         { 
           name: "Data Science & Analytics",
-          colleges: ["Chandigarh University Lucknow", "Dr. S.S. Bhatnagar University Institute of Chemical Engineering & Technology"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Cyber Security",
@@ -44,15 +44,15 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "Marketing Management",
-          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Finance Management",
-          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Human Resource Management",
-          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "International Business",
@@ -60,7 +60,7 @@ const ChandigarhUniversityVideo = () => {
         },
         { 
           name: "Business Analytics",
-          colleges: ["Chandigarh University Lucknow", "Dr. S.S. Bhatnagar University Institute of Chemical Engineering & Technology"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         }
       ]
     },
@@ -76,7 +76,7 @@ const ChandigarhUniversityVideo = () => {
         },
         { 
           name: "Horticulture",
-          colleges: ["Chandigarh University Lucknow", "Government Home Science College, Chandigarh (Sector 10)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Soil Science",
@@ -100,11 +100,11 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "General Management",
-          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Digital Marketing",
-          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Entrepreneurship",
@@ -112,7 +112,7 @@ const ChandigarhUniversityVideo = () => {
         },
         { 
           name: "Banking & Finance",
-          colleges: ["Chandigarh University Lucknow", "Government College for Girls, Chandigarh (Sector 11)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "International Business",
@@ -128,23 +128,23 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "Pharmaceutical Chemistry",
-          colleges: ["Post Graduate Institute of Medical Education & Research (PGIMER)", "Government Medical College & Hospital, Chandigarh (Sector 32)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Pharmacology",
-          colleges: ["Post Graduate Institute of Medical Education & Research (PGIMER)", "Government Medical College & Hospital, Chandigarh (Sector 32)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Clinical Pharmacy",
-          colleges: ["Post Graduate Institute of Medical Education & Research (PGIMER)", "Government Medical College & Hospital, Chandigarh (Sector 32)"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Pharmaceutical Analysis",
-          colleges: ["Government Medical College & Hospital, Chandigarh (Sector 32)", "Post Graduate Institute of Medical Education & Research (PGIMER)"]
+          colleges: ["Chandigarh University Mohali", "Chandigarh University Lucknow"]
         },
         { 
           name: "Drug Regulatory Affairs",
-          colleges: ["Post Graduate Institute of Medical Education & Research (PGIMER)"]
+          colleges: ["Chandigarh University Lucknow"]
         }
       ]
     },
@@ -156,36 +156,36 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "Fashion Design",
-          colleges: ["Government College of Art, Chandigarh (Sector 10)", "Government Home Science College, Chandigarh (Sector 10)"]
+          colleges: ["Chandigarh University Mohali", "Chandigarh University Mohali"]
         },
         { 
           name: "Interior Design",
-          colleges: ["Government College of Art, Chandigarh (Sector 10)", "Government Home Science College, Chandigarh (Sector 10)"]
+          colleges: ["Chandigarh University Mohali", "Chandigarh University Mohali"]
         },
         { 
           name: "Graphic Design",
-          colleges: ["Government College of Art, Chandigarh (Sector 10)"]
+          colleges: ["Chandigarh University Mohali"]
         },
         { 
           name: "Product Design",
-          colleges: ["Government College of Art, Chandigarh (Sector 10)"]
+          colleges: ["Chandigarh University Mohali"]
         },
         { 
           name: "UI/UX Design",
-          colleges: ["Government College of Art, Chandigarh (Sector 10)", "Chandigarh University Lucknow"]
+          colleges: ["Chandigarh University Mohali", "Chandigarh University Lucknow"]
         }
       ]
     }
   ];
 
   const colleges = [
-    { name: "Government College of Art, Chandigarh (Sector 10)", rating: 4.5 },
+    { name: "Chandigarh University Mohali", rating: 4.5 },
     { name: "Chandigarh University Lucknow", rating: 4.8 },
-    { name: "Post Graduate Institute of Medical Education & Research (PGIMER)", rating: 4.9 },
-    { name: "Government Medical College & Hospital, Chandigarh (Sector 32)", rating: 4.7 },
-    { name: "Government College for Girls, Chandigarh (Sector 11)", rating: 4.6 },
-    { name: "Government Home Science College, Chandigarh (Sector 10)", rating: 4.5 },
-    { name: "Dr. S.S. Bhatnagar University Institute of Chemical Engineering & Technology", rating: 4.8 },
+    { name: "Chandigarh University Lucknow", rating: 4.9 },
+    { name: "Chandigarh University Mohali", rating: 4.7 },
+    { name: "Chandigarh University Mohali", rating: 4.6 },
+    { name: "Chandigarh University Mohali", rating: 4.5 },
+    { name: "Chandigarh University Mohali", rating: 4.8 },
     { name: "University Institute of Engineering & Technology (UIET), Panjab University", rating: 4.7 }
   ];
 
