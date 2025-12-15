@@ -156,11 +156,11 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "Fashion Design",
-          colleges: ["Chandigarh University Mohali", "Chandigarh University Mohali"]
+          colleges: ["Chandigarh University Mohali", "Chandigarh University Lucknow"]
         },
         { 
           name: "Interior Design",
-          colleges: ["Chandigarh University Mohali", "Chandigarh University Mohali"]
+          colleges: ["Chandigarh University Mohali", "Chandigarh University Lucknow"]
         },
         { 
           name: "Graphic Design",
@@ -168,7 +168,7 @@ const ChandigarhUniversityVideo = () => {
         },
         { 
           name: "Product Design",
-          colleges: ["Chandigarh University Mohali"]
+          colleges: ["Chandigarh University Lucknow"]
         },
         { 
           name: "UI/UX Design",
