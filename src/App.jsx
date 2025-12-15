@@ -16,7 +16,7 @@ const ChandigarhUniversityVideo = () => {
       specs: [
         { 
           name: "Artificial Intelligence & Machine Learning",
-          colleges: ["Chandigarh University Lucknow", "University Institute of Engineering & Technology (UIET), Panjab University"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Data Science & Analytics",
@@ -24,15 +24,15 @@ const ChandigarhUniversityVideo = () => {
         },
         { 
           name: "Cyber Security",
-          colleges: ["University Institute of Engineering & Technology (UIET), Panjab University", "Chandigarh University Lucknow"]
+          colleges: ["Chandigarh University Mohali", "Chandigarh University Lucknow"]
         },
         { 
           name: "Cloud Computing",
-          colleges: ["Chandigarh University Lucknow", "University Institute of Engineering & Technology (UIET), Panjab University"]
+          colleges: ["Chandigarh University Lucknow", "Chandigarh University Mohali"]
         },
         { 
           name: "Full Stack Development",
-          colleges: ["University Institute of Engineering & Technology (UIET), Panjab University", "Chandigarh University Lucknow"]
+          colleges: ["Chandigarh University Mohali", "Chandigarh University Lucknow"]
         }
       ]
     },
@@ -186,7 +186,7 @@ const ChandigarhUniversityVideo = () => {
     { name: "Chandigarh University Mohali", rating: 4.6 },
     { name: "Chandigarh University Mohali", rating: 4.5 },
     { name: "Chandigarh University Mohali", rating: 4.8 },
-    { name: "University Institute of Engineering & Technology (UIET), Panjab University", rating: 4.7 }
+    { name: "Chandigarh University Mohali", rating: 4.7 }
   ];
 
   return (
